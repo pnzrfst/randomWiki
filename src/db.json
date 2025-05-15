@@ -1,0 +1,11 @@
+{
+  "wikis": [
+    { "id": 1, "title": "React", "content": "Biblioteca JS" }
+  ],
+  "savedWikis": [
+    { "id": 1, "userId": 1, "wikiId": 1 }
+  ],
+  "users": [
+    { "id": 1, "name": "João" }
+  ]
+}
